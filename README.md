@@ -1,3 +1,3 @@
 # Cinematch
 
-Please navigate inside the backend or frontend directories for more details on the project
+Please navigate inside the Backend or Frontend directories for more details on that side of the project
